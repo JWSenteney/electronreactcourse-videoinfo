@@ -8,8 +8,11 @@
   "repository": "git@github.com:JWSenteney/electronreactcourse-videoinfo.git",
   "author": "Jacob Senteney <jwsenteney@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "electron": "^4.1.4",
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "devDependencies": {
     "prettier": "^1.17.0"
   }
 }
